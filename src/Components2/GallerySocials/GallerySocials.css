@@ -1,0 +1,75 @@
+.socialreact{
+    display: flex;
+border: 15px solid white;
+
+}
+
+.socialreactions{
+    display: flex;
+    margin-left: 46.7rem;
+    gap: 2rem;
+    font-size: 1.2rem;
+    color: var(--colorbtn);
+    }
+
+.socialword{
+    display: flex;
+    flex-direction: column;
+line-height: 20px;
+}
+
+.socialword h3{
+    font-family: "Quicksand-Bold";
+    letter-spacing: 0.2rem;
+}
+
+.socialword p{
+    font-family: 'Junction-light';
+    font-size: 0.6rem;
+    letter-spacing: 0.2rem;
+    color: var(--colorbtn);
+}
+
+.likebtn{
+    
+    transition: color 0.3s ease-in-out, transform 0.5s ease-in-out;    
+cursor: pointer;
+}
+
+   .likebtn:hover{
+    color: black;
+    transform: scale(1.2);
+   }
+
+.menubtn{
+    display: none;
+}
+.downloadbtn{
+    transition: color 0.3s ease-in-out, transform 0.5s ease-in-out;    
+cursor: pointer;
+}
+
+.downloadbtn:hover{
+    color: black;
+    transform: scale(1.2);
+   }
+
+   .sharebtn{
+    transition: color 0.3s ease-in-out, transform 0.5s ease-in-out;    
+    cursor: pointer;
+   }
+
+   .sharebtn:hover{
+    color: black;
+    transform: scale(1.2);
+   }
+
+   .playbtn{
+    transition: color 0.3s ease-in-out, transform 0.5s ease-in-out;    
+    cursor: pointer;
+   }
+
+   .playbtn:hover{
+    color: black;
+    transform: scale(1.2);
+   }

@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 0.7rem;
+   padding-top: 162px;
+}
+
+.damitomz{
+    color: var(--colorbtn);
+    font-family: 'Quicksand-Regular';
+}
+
+.powerd{
+    padding-top: 30px;
+    padding-bottom: 107px;
+    color: var(--colorbtn);
+    font-family: 'Quicksand-Regular';
+}
+
+.powerd p{
+   color: var(--colorbtn);    
+transition: 0.3s ease-in-out;
+}
+
+.powerd p:hover{
+    color: black;
+}

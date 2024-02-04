@@ -1,0 +1,140 @@
+nav{
+display: flex;
+font-size: var(--socialmediasize);
+border: 20px;
+padding: 20px 82px;
+gap: 54.875rem;
+color: var(--colorbtn);
+height: 80px;
+}
+
+.socials{
+display: flex;
+gap: 1.4rem;
+}
+
+.twitter{
+transition: 0.5s ease-in-out;
+}
+
+.twitter:hover{
+    color: black;
+}
+
+.instagram{
+    transition: 0.3s ease-in-out;
+    }
+    
+    .instagram:hover{
+        color: black;
+    }
+    
+    .search{
+        position: absolute;
+        top: 21px;
+        display: flex;
+        transition: 0.3s ease-in-out;
+        font-size: large;
+    }
+
+    .search:hover{
+        color: black;
+    }
+.searchbtnclose{
+display: flex;
+justify-content: center;
+    margin-left: -41px;
+}
+
+.close{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.close:hover{
+    color: black;
+}
+
+    
+
+    input{
+        display: flex;
+        font-family: 'Junction-light';
+        color: black;
+        font-size: smaller;
+        border-radius: 1rem;
+        height: 1.3rem;
+        background-color: rgb(216, 213, 213);
+        margin-left: -175px;
+        margin-bottom: -20px;
+    padding-left: 0.9rem;
+    }
+    input::placeholder {
+        margin-left: 20px;
+        font-size: smaller; /* Set the font size for the placeholder */
+    }
+
+    @media screen and (max-width: 900px) {
+nav{
+  
+    gap: 33rem;
+}
+    }
+    
+    @media screen and (max-width: 700px) {
+        input{
+            margin-left: -23rem;
+        }
+        .search{
+            margin-left: -6.3rem;
+        }
+        
+    
+    }
+    
+    @media screen and (max-width: 600px) {
+        .search{
+            margin-left: -12rem;
+        }
+        input{
+            margin-left: -36rem;
+        }
+    }
+
+    @media screen and (max-width: 500px) {
+
+.socials{
+    display: none;
+}
+
+.search{
+    margin-left: 18rem;
+}
+
+input{
+    margin-left: 7rem;
+}
+
+    }
+
+    @media screen and (max-width: 400px) {
+        .search{
+            margin-left: 15.5rem;
+        }
+        input{
+            margin-left: 4.5rem;
+        }
+    }
+
+    @media screen and (max-width: 340px) {
+
+        .search{
+            margin-left: 12rem;
+        }
+        input{
+            margin-left: 3.6rem;
+            width: 8rem;
+        }
+
+    }
+   

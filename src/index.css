@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+:root {
+
+/* Social Media Size */
+--socialmediasize: 1rem ;
+--colorbtn: #787878;
+}
+  
+
+/* Normal Words Font */
+@font-face {
+  font-family: 'Junction-light';
+  src: url('./fonts/Junction-light.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Topic Words Font */
+
+@font-face {
+  font-family: 'Quicksand-Bold';
+  src: url('./fonts/Quicksand-Bold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand-Regular';
+  src: url('./fonts/Quicksand-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+body {
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

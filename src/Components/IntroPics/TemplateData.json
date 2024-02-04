@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "https://picsum.photos/800/800/?random",
+        "title": "WATER"
+    },
+
+    {
+        "id": 2,
+        "image": "https://picsum.photos/420/300/?random",
+        "title": "SANDBEACH"
+    },
+    {
+        "id": 3,
+        "image": "https://picsum.photos/420/700/?random",
+        "title": "SANDBEACH",
+        "date": "JANUARY 13TH, 2024"
+    },
+    {
+        "id": 4,
+        "image": "https://picsum.photos/420/400/?random",
+        "title": "SANDBEACH"
+        
+    },
+
+    {
+        "id": 5,
+        "image": "https://picsum.photos/510/990/?random",
+        "title": "SANDBEACH"
+        
+    },
+    
+    {
+        "id": 6,
+        "image": "https://picsum.photos/520/490/?random",
+        "title": "SANDBEACH",
+        "date": "JANUARY 3RD, 2024"
+    }
+
+
+    
+]

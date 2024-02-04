@@ -1,0 +1,65 @@
+.backgroundimg{
+    background-image: url(http://ppcdn.500px.org/75319705/1991f76c0c6a91ae1d23eb94ac5c7a9f7e79c480/2048.jpg) ;
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #999;
+            height: 100vh;
+            
+}
+
+.gallreywords{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    line-height: 48px;
+    margin: auto;
+}
+
+.gallreywords h2{
+color: white;
+font-size: 2.7rem;
+letter-spacing: 2px;
+font-family: "Quicksand-Bold";
+}
+
+.gallreywords p{
+    color: white;
+    font-size: 0.6rem;
+    letter-spacing: 2px;
+    font-family: 'Junction-light';
+}
+
+.viewgallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 2px solid white;
+    font-size: 0.6rem;
+    width: 140px;
+    height: 40px;
+    letter-spacing: 2px;
+    transition: .5s ease-in-out ;
+    cursor: pointer;
+}
+
+.viewgallery:hover {
+color: black;
+background-color: white;
+}
+
+ .tomivizualz{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -117px;
+  font-size: 0.6rem;
+  color: white;
+  letter-spacing: 3px;
+  font-family: 'Junction-light';
+  cursor: pointer;
+}

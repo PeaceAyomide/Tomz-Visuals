@@ -1,0 +1,64 @@
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+gap: 20px;
+}
+
+.intro h3{
+font-family: "Quicksand-Bold";
+    letter-spacing: 2px;
+}
+
+.socialsintro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--colorbtn);
+}
+
+
+
+.twitterintro, .instagramintro{
+    transition: 0.3s ease-in-out;
+}
+.twitterintro:hover, .instagramintro:hover{
+    color: black;
+}
+
+
+.intro p{
+    font-family: 'Junction-light';
+    text-align: center;
+width: 33rem;
+font-size: 0.8rem;
+line-height: 1.3rem;
+}
+
+@media screen and (max-width: 500px) {
+    .intro p{
+        width: 22rem;
+        font-size: 0.7rem;
+    }
+
+    
+    
+}
+
+@media screen and (max-width: 400px) {
+    .intro p{
+        
+        width: 17rem;
+        font-size: 0.7rem;
+    }
+    
+}
+
+@media screen and (min-width: 501px) and (max-width: 2000px) {
+    .socialsintro{
+        display: none;
+    }
+}
