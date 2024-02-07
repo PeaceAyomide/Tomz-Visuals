@@ -1,0 +1,56 @@
+  <div className="img-wrapper">
+        <img src="https://picsum.photos/420/300/?random" alt="" className='bictures'/>
+        <div className="content slide-up">
+       <FaRegHeart className="heartz" /> 
+            <RiDownloadLine className="downloadz"/>
+            <CiShare2 className="sharez" />
+        </div>
+        </div>
+        <div className="img-wrapper">
+        <img src="https://picsum.photos/420/700/?random" alt="" className='bictures'/>
+        <div className="content slide-up">
+       <FaRegHeart className="heartz" /> 
+            <RiDownloadLine className="downloadz"/>
+            <CiShare2 className="sharez" />
+        </div>
+        </div>
+        <div className="img-wrapper">
+        <img src="https://picsum.photos/420/400/?random" alt="" className='bictures'/>
+        <div className="content slide-up">
+       <FaRegHeart className="heartz" /> 
+            <RiDownloadLine className="downloadz"/>
+            <CiShare2 className="sharez" />
+        </div>   
+        </div>
+        <div className="img-wrapper">
+        <img src="https://picsum.photos/520/500/?random" alt="" className='bictures'/>
+        <div className="content slide-up">
+       <FaRegHeart className="heartz" /> 
+            <RiDownloadLine className="downloadz"/>
+            <CiShare2 className="sharez" />
+        </div>   
+        </div>
+        <div className="img-wrapper">
+        <img src="https://picsum.photos/620/600/?random" alt="" className='bictures' />
+        <div className="content slide-up">
+       <FaRegHeart className="heartz" /> 
+            <RiDownloadLine className="downloadz"/>
+            <CiShare2 className="sharez" />
+        </div>   
+        </div>
+        <div className="img-wrapper">
+        <img src="https://picsum.photos/220/200/?random" alt="" className='bictures'/>
+        <div className="content slide-up">
+       <FaRegHeart className="heartz" /> 
+            <RiDownloadLine className="downloadz"/>
+            <CiShare2 className="sharez" />
+        </div>   
+        </div>
+        <div className="img-wrapper">
+        <img src="https://picsum.photos/620/100/?random" alt="" className='bictures'/>
+        <div className="content slide-up">
+       <FaRegHeart className="heartz" /> 
+            <RiDownloadLine className="downloadz"/>
+            <CiShare2 className="sharez" />
+        </div>   
+        </div>
